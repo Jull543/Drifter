@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Boss
+  - DayBackground
+  - LifePotion
+  - Coin
+  - Herb
+  - Traps
+  - Fly
+  - KillZone
+  - dialog
+  - End
+  - Warrior
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2581791889
+    locked: 0
+  - name: decorations_bottom
+    uniqueID: 4217898777
+    locked: 0
+  - name: darkground
+    uniqueID: 2067484203
+    locked: 0
+  - name: platform
+    uniqueID: 1406317649
+    locked: 0
+  - name: waterfall
+    uniqueID: 3828340065
+    locked: 0
+  - name: trap
+    uniqueID: 2145858557
+    locked: 0
+  - name: fly
+    uniqueID: 2911164523
+    locked: 0
+  - name: decorations_top
+    uniqueID: 3878125527
+    locked: 0
+  - name: characters
+    uniqueID: 2334083277
+    locked: 0
